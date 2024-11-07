@@ -27,3 +27,7 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
+## doc
+
+[如何构建一个完美缩放的 UI 界面](https://fedev.cn/css/how-to-get-a-pixel-perfect-and-linearly-scaled-ui.html)
